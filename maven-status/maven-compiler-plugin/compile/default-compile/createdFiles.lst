@@ -1,0 +1,8 @@
+com\bpl\service\ITouriestMgmtService.class
+com\bpl\rest\TouriestOperationController.class
+com\bpl\service\TouriestMgmtService.class
+com\bpl\entity\Touriest.class
+com\bpl\error\TouriestNotFoundException.class
+com\bpl\ServletInitializer.class
+com\bpl\repository\ITouriestRepository.class
+com\bpl\BRestProj12MIniProjAppDvlopApplication.class
